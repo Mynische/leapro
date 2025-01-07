@@ -1,2 +1,5 @@
 # Exclude all .exe files
 *.exe
+
+# Remove all files except cpp extension
+!*.cpp
