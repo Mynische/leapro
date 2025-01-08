@@ -6,3 +6,7 @@
 
 # Except .h file extension
 !*.h
+
+# Include practiceProg folder
+!practiceProg/*.cpp
+
