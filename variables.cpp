@@ -2,14 +2,14 @@
 
 int main()
 {
-   /* int x, y = 4; //declaration
+  /* int x, y = 4; //declaration
     x = 5; //assignment
     int sum = x + y;
 
     // int x = t; declaration and assignment in a single step.
     std::cout << x << '\n';
     std::cout << y << '\n';
-    */
+  */
 
 
     /* integer (whole number)
@@ -27,7 +27,6 @@ int main()
 
    std::cout << price << '\n';
     */
-
    
     /* single character
     char grade = 'A';
@@ -46,15 +45,8 @@ int main()
   */
 
     /* string (objects that represents a sequence of text)
-
     */
-   std::string name = "Grisha";
-   std::string day = "Monday";
-   std::string food = "Apple";
-   std::string address = "123 Shit Hell.";
-   
-   std::cout << name << '\n';
-   std::cout << "Hello " << name << '\n';
-   
-   return 0;
+  unsigned int variable = 8;
+  std::cout << variable << '\n';
+  std::cin.get();
 }

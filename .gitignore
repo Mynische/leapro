@@ -10,3 +10,4 @@
 # Include practiceProg folder
 !practiceProg/*.cpp
 
+.vscode
